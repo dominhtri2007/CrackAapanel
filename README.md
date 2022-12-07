@@ -1,4 +1,4 @@
-
+Ahihi
 
 
 ```
@@ -30,7 +30,7 @@ sudo systemctl status docker
 ```
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/AZZ-vopp/Z_OV/main/script/Z_OVpanel.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/dominhtri2007/CrackAapanel/main/script/Z_OVpanel.sh)
 ```
 
 ```
