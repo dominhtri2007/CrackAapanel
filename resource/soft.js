@@ -598,7 +598,7 @@ var soft = {
               if(_this.trail){
                 setTimeout(function (){
                   $('.btn-ground').after('<span class="pro_trail" style="font-weight: 700;margin-left:25px;">liên hệ với admin tool</span>')
-                  var trail = $('<a href=\"https://www.facebook.com/i.am.thai.ok\" style="margin-left:10px;">ấn vào đây</a>');
+                  var trail = $('<a href=\"https://dominhtri.co\" style="margin-left:10px;">ấn vào đây</a>');
                   trail.click((!res.status || !res)?fun:function(){
                     var loadT = bt.load()
                     bt.confirm({
