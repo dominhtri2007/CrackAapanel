@@ -167,7 +167,7 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, Proxypanel
     ApiConfig:
-      ApiHost: "https://vuthaiazz.xyz"
+      ApiHost: "https://dominhtri.co"
       ApiKey: "1122334455667788"
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
